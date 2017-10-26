@@ -20,14 +20,16 @@
     {
       "id": "1",
       "home": "TOT",
-      "allway": "MU",
-      "date": "24/10/2017"
+      "away": "MU",
+      "date": "24/10/2017",
+      "score": "1-2"
     },
     {
-      "id": "2",
-      "home": "TOT2",
-      "allway": "MU2",
-      "date": "25/10/2017"
+      "date": "03/10/2017",
+      "home": "TOT3",
+      "away": "MU",
+      "score": "3-2",
+      "id": "2"
     }
   ]
 }
